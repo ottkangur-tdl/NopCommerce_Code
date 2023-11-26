@@ -8,7 +8,7 @@ export default class UserData{
             '5',
             '5',
             '1999',
-            'ott.ka@testdevlab.com',
+            'ott.ka@test.co',
             'BestCompany',
             'BestPasswordEver333$'
         )
